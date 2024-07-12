@@ -67,107 +67,53 @@ After installing osTicket, it's time to set it up as a ticketing system. Note th
 </p>
 <br />
 
-<p>
-<img src="https://github.com/CynthiaBrady/post-install--configuration/assets/160746865/98ba854f-50fa-4b83-9a17-fe9b47ae8fd0" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
+
 
    <p>
 <img src="https://github.com/CynthiaBrady/post-install--configuration/assets/160746865/303878a5-b1c2-454e-ab50-91ea27c704ba" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p> 
-4.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+3.To expand on the existing Level I Support Team in osTicket, create a new level II Support Team. Access the Admin panel, navigate to the Agent menu, and select Teams. From there, add any additional teams that are needed. 
 </p>
 <br />
 
-<p>
-<img src="https://github.com/CynthiaBrady/post-install--configuration/assets/160746865/303878a5-b1c2-454e-ab50-91ea27c704ba" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-5.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
 
-<p>
-<img src="https://github.com/CynthiaBrady/post-install--configuration/assets/160746865/0bd6b76e-5605-4336-80f1-559165e7969a" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-6.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
 
-<p>
-<img src="https://github.com/CynthiaBrady/post-install--configuration/assets/160746865/59231a2b-c37b-4b4b-a7c2-ff9cf06d7bdc" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-7.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://github.com/CynthiaBrady/post-install--configuration/assets/160746865/98ba854f-50fa-4b83-9a17-fe9b47ae8fd0" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-8.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
 
 <p>
 <img src="https://github.com/CynthiaBrady/post-install--configuration/assets/160746865/4b1e1f56-509b-4e1d-80f5-c61b2f26fb23" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-9.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
 
 <p>
-<img src="https://github.com/CynthiaBrady/post-install--configuration/assets/160746865/89923aca-a9de-43e6-9a07-a58485bc93b2" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/CynthiaBrady/post-install--configuration/assets/160746865/59231a2b-c37b-4b4b-a7c2-ff9cf06d7bdc" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-10.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  
+4. To ensure smooth handling of incoming tickets, both new agents and users need to be added to osTicket. 
+  
+  Add New Agents,and go to Agent menu. Select "Add New Agent" to create account credentails for each agent. For this Demonstration, Jane Doe will be created. 
+
+  To add New User navigate to the agents panel and open the users menu. Click on Add User to set up account credentials for each new user. 
 </p>
 <br />
-
-<p>
-<img src="https://github.com/CynthiaBrady/post-install--configuration/assets/160746865/684075f6-e93c-4048-9543-e1dcc0892299" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-11.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://github.com/CynthiaBrady/post-install--configuration/assets/160746865/259dd39a-ae6d-4a9a-94aa-c51f8f8df8cb" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
-<img src="https://github.com/CynthiaBrady/post-install--configuration/assets/160746865/7a319913-beae-4002-9076-654406978659" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-12.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
 <p>
 <img src="https://github.com/CynthiaBrady/post-install--configuration/assets/160746865/3cb85e1a-dd5d-41ca-8506-377c1f173be2" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-13Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img src="https://github.com/CynthiaBrady/post-install--configuration/assets/160746865/259dd39a-ae6d-4a9a-94aa-c51f8f8df8cb" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+
+5.To sort out tickets by thier impact levels, you need to set up Service Level Agreements (SLAs). Navagate to the Admin panel and click on Manage menu. Select SLA to create new ones. Create SEV-A,B,and C to prioritze tickets that need to be responded within 1 hour,all day, withen 4 hours, all day, and withen 8 hours, during business hours. 
 </p>
 <br />
-
 <p>
 <img src="https://github.com/CynthiaBrady/post-install--configuration/assets/160746865/3cf17cdb-7f02-4915-8c29-175a970584d7" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
-13Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+
+6.To help users choose the correct category for thier issues and help agents understand ticket problems better, we need to create Help Topics. Go to the Admin panel, then click topics like Business Critical Outrage, Personal Computer Issues,Equipment Request, and Password Reset for future ticket creation. 
 </p>
 <br />
 
-<p>
-<img src="https://github.com/CynthiaBrady/post-install--configuration/assets/160746865/259dd39a-ae6d-4a9a-94aa-c51f8f8df8cb" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-13Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
 
-<img src="https://github.com/CynthiaBrady/post-install--configuration/assets/160746865/af70e068-d695-4c48-a6b5-ff316a7b1e17" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
