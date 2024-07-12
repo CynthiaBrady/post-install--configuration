@@ -4,12 +4,10 @@
 </p>
 
 <h1>osTicket - Post-Install Configuration</h1>
-This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
+This lab demonstration covers the necessary requirements and step by step installation process for osTicket, and open source desk ticketing system.<br />
 
 
-<h2>Video Demonstration</h2>
 
-- ### [YouTube: How To Configure osTicket, post-installation](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
@@ -32,20 +30,32 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Configure Help Topics
   
 <h2>Configuration Steps</h2>
-
+<p>
+After installing osTicket, it's time to set it up as a ticketing system. Note that you'll switch between Admin and Agent, panels, each wtih different settings. To see which panel you're using,check the top right of the osTickets screen. If it says "Agent Panel," you're in the Admin panel,and vice versa.
+</p>
+<br />
 <p>
 <img src="https://github.com/CynthiaBrady/post-install--configuration/assets/160746865/b8dc4964-e3e3-42d4-bffa-afec84073b2c" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-1.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+
 
 <p>
 <img src="https://github.com/CynthiaBrady/post-install--configuration/assets/160746865/10d02131-0c54-4117-a744-9aa33f12919c" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-2.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+<p>
+<img src="https://github.com/CynthiaBrady/post-install--configuration/assets/160746865/98ba854f-50fa-4b83-9a17-fe9b47ae8fd0" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+
+
+
+
+
+1.To start, create a new role called "Supreme Admin." In the Admin panel, go to the Agents Menu, click on Roles, and then create the new role from there. This role will have all possible permissions for the purpose of this lab. 
 </p>
 <br />
 
@@ -53,7 +63,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://github.com/CynthiaBrady/post-install--configuration/assets/160746865/abb2bef0-1d56-436f-81ae-d08e862efcd4" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-3.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+2.Next, lets create a new Department specifically for Systems Administrators. Go to the Admin panel, navigate to the Agents menu, and click on Departments to set up the new Department in osTicket. 
 </p>
 <br />
 
@@ -61,6 +71,11 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://github.com/CynthiaBrady/post-install--configuration/assets/160746865/98ba854f-50fa-4b83-9a17-fe9b47ae8fd0" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+
+   <p>
+<img src="https://github.com/CynthiaBrady/post-install--configuration/assets/160746865/303878a5-b1c2-454e-ab50-91ea27c704ba" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p> 
 4.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
